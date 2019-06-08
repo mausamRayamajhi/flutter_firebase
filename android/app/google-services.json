@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340450376597",
+    "firebase_url": "https://avian-bricolage-214808.firebaseio.com",
+    "project_id": "avian-bricolage-214808",
+    "storage_bucket": "avian-bricolage-214808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340450376597:android:31a4273dc756635e",
+        "android_client_info": {
+          "package_name": "com.mausamrayamajhi.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340450376597-m9tqrjbam0ja724oli1jjljlc5ub00rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvsEU6J2IV_crfx-rKk7OmjgaYSDEUoFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340450376597-m9tqrjbam0ja724oli1jjljlc5ub00rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
